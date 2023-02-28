@@ -23,4 +23,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 
-- [Visite o projeto online](helisson2k.github.io/Social-Tree/)
+- [Visite o projeto online](https://helisson2k.github.io/Social-Tree/)
