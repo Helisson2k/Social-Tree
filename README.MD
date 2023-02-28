@@ -19,3 +19,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - Figma
+
+## 💻 Projeto
+
+
+- [Visite o projeto online](helisson2k.github.io/Social-Tree/)
