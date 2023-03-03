@@ -1,6 +1,6 @@
 <h1 align="center"> Social Tree </h1>
 
-## 💻 Sobre o desafio
+## 💻 Sobre o projeto
 
 <p align="center">
 Desafio criado pela rocketseat que consiste em criar uma página com uma lista de links que pode ser usada em perfis de redes sociais. <br/>
@@ -19,3 +19,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - Figma
+
+## 💻 Projeto
+
+
+- [Visite o projeto online](https://helisson2k.github.io/Social-Tree/)
