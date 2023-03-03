@@ -71,6 +71,7 @@ html {
   text-transform: uppercase;
   text-align: center;
   padding: 12px 0;
+  color: var(--purple);
   transition: ease 0.3s;
 }
 
